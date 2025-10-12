@@ -12,6 +12,8 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+target/
+desktop.ini
 
 # Generated files
 .idea/**/contentModel.xml
